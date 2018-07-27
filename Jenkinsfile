@@ -1,4 +1,4 @@
-pipeline {
+pipeline { //(Declarative Pipeline)
     agent any 
     stages {
         stage('Stage 1') {
